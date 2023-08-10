@@ -1,0 +1,82 @@
+a.Polaris-Navigation__Item{
+    padding: 10px;
+}
+.Polaris-ButtonGroup--segmented {
+    align-content: center;
+    justify-content: center;
+}
+.Polaris-FormLayout--condensed .Polaris-Connected {
+    width: 20%;
+}
+.Polaris-FormLayout--condensed .Polaris-Connected .Polaris-TextField__Input {
+    padding: 0;
+}
+.Polaris-Page-Header--isSingleRow .Polaris-Page-Header__Row{
+    align-items: center;
+}
+.Polaris-Popover__Content {
+    max-width: 45rem;
+}
+.KS67V {
+    display: flex;
+    min-height: 20.875rem;
+}
+.uhbab {
+    border-top: var(--p-border-divider);
+    padding: var(--p-space-4);
+}
+
+.qffQz {
+    --pc-scrollable-shadow-size: var(--p-space-5);
+    --pc-scrollable-shadow-bottom: inset 0 calc(var(--pc-scrollable-shadow-size)*-1) var(--pc-scrollable-shadow-size) calc(var(--pc-scrollable-shadow-size)*-1) var(--p-hint-from-direct-light);
+    --pc-scrollable-shadow-top: inset 0 var(--pc-scrollable-shadow-size) var(--pc-scrollable-shadow-size) calc(var(--pc-scrollable-shadow-size)*-1) var(--p-hint-from-direct-light);
+    display: flex;
+    overflow-y: auto;
+    position: relative;
+}
+.ybORZ {
+    max-width: 32.25rem;
+    padding: var(--p-space-5);
+}
+
+.text-center {
+    text-align: center;
+}
+.font-normal {
+    font-weight: 400;
+}
+
+.text-sm {
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+.mt-3 {
+    margin-top: 0.75rem;
+}
+sup {
+    top: -0.5em;
+}
+sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+}
+.font-normal {
+    font-weight: 400;
+}
+
+.text-sm {
+    font-size: 1.875rem;
+    line-height: 1.25rem;
+}
+.mt-8 {
+    margin-top: 2rem;
+}
